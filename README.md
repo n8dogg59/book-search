@@ -10,7 +10,7 @@ To use this application please use the following link: https://portfolio-schroed
 https://github.com/n8dogg59/book-search
 
 ## Screenshot
-![screenshot of budget-tracker homepage](/assets/screenshot.jpg)
+![screenshot of budget-tracker homepage](./assets/screenshot.jpg)
 
 ## Built With
 * MongoDB
